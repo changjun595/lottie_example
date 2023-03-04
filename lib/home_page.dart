@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
         centerTitle: true,
       ),
       body: Center(
-          child: Lottie.network('https://assets7.lottiefiles.com/packages/lf20_KEahK5k9Mf.json')),
+          child: Lottie.network(//user url)),
     );
   }
 }
